@@ -30,17 +30,15 @@
       <h2>Hi, I'm Joel.</h2>
       <p>
         I am a software engineer working across cloud infrastructure, DevOps, SRE, platform engineering, and backend systems.
-        I like building the parts of engineering that other teams should be able to trust: landing zones, deployment paths,
-        CI/CD, network foundations, identity, observability, and automation that behaves the same way twice.
       </p>
       <p>
-        Most of my recent work sits around AWS, Azure, Kubernetes, Terraform, Go, Python, and Linux. I am especially interested
+        Most of my recent work sits around AWS, GCP, Azure, Kubernetes, Terraform, Go, Python, and Linux. I am especially interested
         in the practical side of architecture: tradeoffs, failure modes, security boundaries, and making complex systems easier
         to operate.
       </p>
       <p>
         Outside the terminal, I hold a Private Pilot License and spend a healthy amount of time around cars, gadgets, and anything
-        with enough moving parts to deserve a checklist.
+        with enough moving parts.
       </p>
     </td>
     <td width="38%" align="center" valign="top">
@@ -48,7 +46,7 @@
       <br /><br />
       <strong>Open to</strong>
       <br />
-      Cloud, SRE, platform, backend, Terraform provider work, and architecture reviews.
+      Cloud, SRE, platform, backend, and architecture reviews.
     </td>
   </tr>
 </table>
@@ -59,15 +57,15 @@
   <tr>
     <td width="33%" valign="top">
       <h3>Cloud Foundations</h3>
-      <p>Multi-account AWS, Azure foundations, networking, IAM, security baselines, and production-ready environment design.</p>
+      <p>AWS, GCP Azure foundations, networking, IAM, security baselines.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Platform Engineering</h3>
-      <p>Kubernetes, CI/CD, developer workflows, release automation, golden paths, and infrastructure that reduces operational drag.</p>
+      <p>Kubernetes, CI/CD, developer workflows, release automation, golden paths.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Backend Systems</h3>
-      <p>Go, Python, APIs, async workflows, automation, internal tools, and the glue code that keeps real systems moving.</p>
+      <p>Go, Python, APIs, async workflows, automation, internal tools.</p>
     </td>
   </tr>
 </table>
@@ -99,22 +97,6 @@
     <img src="https://img.shields.io/badge/Terraform%20Registry-joelfernandes23%2Fkargo-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Registry provider" />
   </a>
 </p>
-
-## Recent Writing
-
-I write about cloud engineering, DevOps, and the practical details that show up when systems are actually deployed.
-
-- [Passing the AWS Solutions Architect Professional in 2025 - My Experience, the Difficulty, and What Truly Matters](https://blog.joel-fernandes.com/passing-the-aws-solutions-architect-professional-in-2025-my-experience-the-difficulty-and-what-truly-matters)
-- [Hello World](https://blog.joel-fernandes.com/hello-world)
-
-## How I Think
-
-```text
-Design for operations first.
-Prefer clear primitives over clever abstractions.
-Automate the boring parts, document the sharp edges, and test the paths people will actually use.
-Treat cloud architecture as an engineering discipline, not a diagramming exercise.
-```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joelfernandes23&show_icons=true&hide_title=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="Joel's GitHub stats" />
